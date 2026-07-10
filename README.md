@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=ʜᴀʟᴏ%2C+ꜱᴀʏᴀ+ɴᴇxᴀ.;ᴄᴀʟᴏɴ+ᴅᴇᴠᴇʟᴏᴘᴇʀ.;ᴘʜᴘ+%E2%80%A2+ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ.;ʟᴏᴠᴇ+ᴄᴏᴅɪɴɢ+ᴠɪʙᴇꜱ+%E2%98%95.;ᴋᴇᴇᴘ+ʟᴇᴀʀɴɪɴɢ+%26+ᴋᴇᴇᴘ+ʙᴜɪʟᴅɪɴɢ." />
 </p>
 
-![](https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=skayhayato-cmyk&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=skayhayato-cmyk&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skayhayato-cmyk&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </p>
 
@@ -71,7 +71,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img src="https://streak-stats.demolab.com?user=skayhayato-cmyk&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </p>
 
@@ -81,7 +81,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=skayhayato-cmyk&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -91,7 +91,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=skayhayato-cmyk&theme=tokyonight&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -121,7 +121,7 @@
 
 <p align="center">
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/skayhayato-cmyk">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
