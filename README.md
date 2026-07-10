@@ -31,7 +31,6 @@
 
 • ᴘʜᴘ
 • ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ
-• ɴᴏᴅᴇ.ᴊꜱ
 
 ꜱᴀʏᴀ ꜱᴇɴᴀɴɢ
 ᴍᴇᴍʙᴜᴀᴛ
@@ -41,8 +40,7 @@
 • ᴀᴘɪ
 • ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ
 
-☕ ʟᴏᴠᴇ ᴄᴏᴅɪɴɢ ᴠɪʙᴇꜱ
-🚀 ᴋᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ
+☕ ʟᴏᴠᴇ ᴄᴏᴅɪɴɢ ᴠɪʙᴇꜱ🌟 ᴋᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ
 ```
 
 ---
@@ -50,7 +48,7 @@
 # 💻 ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,javascript,nodejs,html,css,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=php,javascript" />
 </p>
 
 ---
@@ -104,7 +102,6 @@
 
 • ᴘʜᴘ
 • ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ
-• ɴᴏᴅᴇ.ᴊꜱ
 • ʀᴇꜱᴛ ᴀᴘɪ
 
 🚀 ꜱᴇᴅᴀɴɢ ᴍᴇᴍʙᴜᴀᴛ
