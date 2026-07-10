@@ -1,84 +1,138 @@
 <div align="center">
 
+<img src="https://clooud.my.id/uploder/uploads/ayPGNf.jpg" width="170" style="border-radius:50%;" />
+
 # ɴᴇxᴀ 👋
 
 ### 「 ᴄᴀʟᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ 🚀 」
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=ʜᴀʟᴏ%2C+ꜱᴀʏᴀ+ɴᴇxᴀ.;ᴄᴀʟᴏɴ+ᴅᴇᴠᴇʟᴏᴘᴇʀ.;ᴘʜᴘ+%E2%80%A2+ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ.;ꜱᴜᴋᴀ+ɴɢᴏᴅɪɴɢ+ᴅᴀɴ+ᴛᴇʀᴜꜱ+ʙᴇʟᴀᴊᴀʀ." />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=ʜᴀʟᴏ%2C+ꜱᴀʏᴀ+ɴᴇxᴀ.;ᴄᴀʟᴏɴ+ᴅᴇᴠᴇʟᴏᴘᴇʀ.;ᴘʜᴘ+%E2%80%A2+ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ.;ʟᴏᴠᴇ+ᴄᴏᴅɪɴɢ+ᴠɪʙᴇꜱ+%E2%98%95.;ᴋᴇᴇᴘ+ʟᴇᴀʀɴɪɴɢ+%26+ᴋᴇᴇᴘ+ʙᴜɪʟᴅɪɴɢ." />
+</p>
+
+![](https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
-## 👤 ᴛᴇɴᴛᴀɴɢ ꜱᴀʏᴀ
+# 👤 ᴛᴇɴᴛᴀɴɢ ꜱᴀʏᴀ
 
 ```text
 ʜᴀʟᴏ! ꜱᴀʏᴀ ɴᴇxᴀ 👋
 
 ꜱᴀʏᴀ ꜱᴇᴅᴀɴɢ ʙᴇʟᴀᴊᴀʀ
-ᴅᴀɴ ʙᴇʀᴜꜱᴀʜᴀ ᴍᴇɴᴊᴀᴅɪ
-ꜱᴇᴏʀᴀɴɢ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
+ᴅᴀɴ ᴛᴇʀᴜꜱ ʙᴇʀᴜꜱᴀʜᴀ
+ᴍᴇɴᴊᴀᴅɪ ꜱᴇᴏʀᴀɴɢ
+ᴅᴇᴠᴇʟᴏᴘᴇʀ.
 
 ꜱᴀᴀᴛ ɪɴɪ ꜱᴀʏᴀ
-ʙᴇʀꜰᴏᴋᴜꜱ ᴍᴇᴍᴘᴇʟᴀᴊᴀʀɪ
-ᴘʜᴘ ᴅᴀɴ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ.
+ʙᴇʀꜰᴏᴋᴜꜱ ᴘᴀᴅᴀ
 
-ꜱᴀʏᴀ ꜱᴇɴᴀɴɢ
-ᴍᴇᴍʙᴜᴀᴛ ᴡᴇʙꜱɪᴛᴇ,
-ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘ,
-ᴅᴀɴ ᴍᴇɴᴄᴏʙᴀ
-ʙᴇʀʙᴀɢᴀɪ ᴛᴇᴋɴᴏʟᴏɢɪ ʙᴀʀᴜ.
-
-☕ ꜱᴜᴋᴀ ɴɢᴏᴅɪɴɢ,
-ʙᴇʟᴀᴊᴀʀ,
-ᴅᴀɴ ᴛᴇʀᴜꜱ ʙᴇʀᴋᴇᴍʙᴀɴɢ.
-```
-
----
-
-## 💻 ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,javascript,nodejs,html,css,git,github,vscode" />
-</p>
-
----
-
-## 📊 ꜱᴛᴀᴛɪꜱᴛɪᴋ ɢɪᴛʜᴜʙ
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 🔥 ɢɪᴛʜᴜʙ ꜱᴛʀᴇᴀᴋ
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-## 🎯 ꜰᴏᴋᴜꜱ ꜱᴀᴀᴛ ɪɴɪ
-
-```text
-📖 ꜱᴇᴅᴀɴɢ ʙᴇʟᴀᴊᴀʀ
 • ᴘʜᴘ
 • ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ
 • ɴᴏᴅᴇ.ᴊꜱ
 
-🚀 ꜱᴇᴅᴀɴɢ ᴍᴇᴍʙᴜᴀᴛ
-• ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ
+ꜱᴀʏᴀ ꜱᴇɴᴀɴɢ
+ᴍᴇᴍʙᴜᴀᴛ
+
 • ᴡᴇʙꜱɪᴛᴇ
-• ᴘʀᴏᴊᴇᴄᴛ ᴘʀɪʙᴀᴅɪ
+• ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ
+• ᴀᴘɪ
+• ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ
+
+☕ ʟᴏᴠᴇ ᴄᴏᴅɪɴɢ ᴠɪʙᴇꜱ
+🚀 ᴋᴇᴇᴘ ʟᴇᴀʀɴɪɴɢ
 ```
+
+---
+
+# 💻 ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,javascript,nodejs,html,css,git,github,vscode,mysql" />
+</p>
+
+---
+
+# 📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+---
+
+# 🔥 ɢɪᴛʜᴜʙ ꜱᴛʀᴇᴀᴋ
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+---
+
+# 📈 ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 ɢɪᴛʜᴜʙ ᴛʀᴏᴘʜʏ
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🎯 ꜰᴏᴋᴜꜱ ꜱᴀᴀᴛ ɪɴɪ
+
+```text
+📚 ꜱᴇᴅᴀɴɢ ʙᴇʟᴀᴊᴀʀ
+
+• ᴘʜᴘ
+• ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ
+• ɴᴏᴅᴇ.ᴊꜱ
+• ʀᴇꜱᴛ ᴀᴘɪ
+
+🚀 ꜱᴇᴅᴀɴɢ ᴍᴇᴍʙᴜᴀᴛ
+
+• ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ
+• ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ
+• ᴘʀᴏᴊᴇᴄᴛ ᴘʀɪʙᴀᴅɪ
+• ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ
+```
+
+---
+
+# 📫 ʜᴜʙᴜɴɢɪ ꜱᴀʏᴀ
+
+<p align="center">
+
+<a href="https://github.com/USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 「 ᴛᴇʀᴜꜱ ʙᴇʟᴀᴊᴀʀ • ᴛᴇʀᴜꜱ ʙᴇʀᴋᴀʀʏᴀ • ᴊᴀɴɢᴀɴ ᴘᴇʀɴᴀʜ ᴍᴇɴʏᴇʀᴀʜ 🚀 」
+## 「 🚀 ᴄᴏᴅᴇ • ʟᴇᴀʀɴ • ʙᴜɪʟᴅ • ʀᴇᴘᴇᴀᴛ 🚀 」
+
+### ☕ "ᴛᴇʀᴜꜱ ʙᴇʟᴀᴊᴀʀ, ᴛᴇʀᴜꜱ ʙᴇʀᴋᴀʀʏᴀ, ᴅᴀɴ ᴊᴀɴɢᴀɴ ᴘᴇʀɴᴀʜ ᴍᴇɴʏᴇʀᴀʜ."
 
 </div>
